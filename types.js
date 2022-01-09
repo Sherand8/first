@@ -98,3 +98,4 @@ alert( `hello ${"name1"}` ); //=> hello name1
 alert( `hello name1` ); //=> hello name1
 
 alert( `hello ${name1}` ); // ? hello Ilya
+//test comm
