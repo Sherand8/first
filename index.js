@@ -203,5 +203,14 @@ function text(str1, str2) {
 const str1 = "Имя"
 const str2 = "Фамилия"
 const result6 = text(str1, str2) // => 'Фамилия Имя'
-console.log(result6)
-
+co
+nsole.log(result6)
+/*
+function text(str1,str2) {
+    return str1*str2
+}
+const str4 = 3;
+const str5 = 4;
+const result8 = str4 * str5
+console.log (result8)
+*/
